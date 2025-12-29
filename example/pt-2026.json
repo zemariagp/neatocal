@@ -1,0 +1,53 @@
+{
+  "param": {
+    "year": 2026,
+    "start_day": 0,
+    "weekday_code": ["Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb"],
+    "month_code": [
+      "JANEIRO",
+      "FEVEREIRO",
+      "MARÇO",
+      "ABRIL",
+      "MAIO",
+      "JUNHO",
+      "JULHO",
+      "AGOSTO",
+      "SETEMBRO",
+      "OUTUBRO",
+      "NOVEMBRO",
+      "DEZEMBRO"
+    ],
+
+    "color_cell": [
+      { "date": "2026-01-01", "color": "#ccc" },
+      { "date": "2026-04-03", "color": "#ccc" },
+      { "date": "2026-04-05", "color": "#ccc" },
+      { "date": "2026-04-25", "color": "#ccc" },
+      { "date": "2026-05-01", "color": "#ccc" },
+      { "date": "2026-06-04", "color": "#ccc" },
+      { "date": "2026-06-10", "color": "#ccc" },
+      { "date": "2026-08-15", "color": "#ccc" },
+      { "date": "2026-10-05", "color": "#ccc" },
+      { "date": "2026-11-01", "color": "#ccc" },
+      { "date": "2026-12-01", "color": "#ccc" },
+      { "date": "2026-12-08", "color": "#ccc" },
+      { "date": "2026-12-25", "color": "#ccc" }
+    ],
+
+    "date_cell": [
+      { "date": "2026-01-01", "text": "🎉" },
+      { "date": "2026-04-03", "text": "✝️" },
+      { "date": "2026-04-05", "text": "🐰" },
+      { "date": "2026-04-25", "text": "🌹" },
+      { "date": "2026-05-01", "text": "👷" },
+      { "date": "2026-06-04", "text": "⛪" },
+      { "date": "2026-06-10", "text": "🇵🇹" },
+      { "date": "2026-08-15", "text": "👼" },
+      { "date": "2026-10-05", "text": "🏛️" },
+      { "date": "2026-11-01", "text": "🕯️" },
+      { "date": "2026-12-01", "text": "🗡️" },
+      { "date": "2026-12-08", "text": "⭐" },
+      { "date": "2026-12-25", "text": "🎄" }
+    ]
+  }
+}
